@@ -1,17 +1,13 @@
-Cover Page
-Project Title:  
 Employee Database Analytics Project
 
 Prepared By:  
 Lovenesh Kumar
 
-Tagline:  
 “Turning raw employee data into actionable insights with SQL & Python.”
 
-Date:  
 May 2026
 
-📌 Overview
+📌
 This project demonstrates how to design, query, and analyze an Employee Database using MySQL, SQLAlchemy, Pandas, and Matplotlib. It showcases end‑to‑end workflow:
 
 Database schema creation
@@ -64,7 +60,3 @@ Database: MySQL
 Python Libraries: Pandas, SQLAlchemy, Matplotlib
 
 Tools: MySQL Workbench, VS Code, Jupyter Notebook
-
-
-
-
